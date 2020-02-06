@@ -1,4 +1,1 @@
-$ cat .gitignore
-
-/.idea/
-registration/
+.idea/
